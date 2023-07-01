@@ -81,8 +81,8 @@
     <img alt="MICROSOFT SHAREPOINT" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /> -->
 </p>
 
-![Anshul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni&theme=Blue)
 
+![Anshul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni&theme=github)
 
 <!--Github Progess bar-->
 ## Quick Overview 📝
