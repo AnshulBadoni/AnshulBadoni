@@ -89,7 +89,7 @@
 
 <p align="center"> 
     <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnshulBadoni&show_icons=true&include_all_commits=true&theme=radical" alt="Anshul's github stats" />
-    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=Blue" alt="Anshul Badoni" />
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshulBadoni&theme=Blue" alt="Anshul Badoni" />
     <p align="center">
     <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnshulBadoni&layout=compact&theme=Blue" alt="Anshul" />
     </p>
