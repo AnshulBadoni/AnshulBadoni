@@ -47,6 +47,12 @@
 
 <!--Technical Skills-->
 <h1>🛠</h1>
+[![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-%23F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-%23FF6F00?style=for-the-badge&logo=PyTorch&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
 
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -74,17 +80,17 @@
     <img alt="MICROSOFT SHAREPOINT" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /> -->
 </p>
 
-<!--![Anshul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WinRAUL&theme=Blue)-->
+![Anshul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni&theme=Blue)
 
 
 <!--Github Progess bar-->
 ## Quick Overview 📝
 
 <p align="center"> 
-    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WinRAUL&show_icons=true&include_all_commits=true&theme=radical" alt="Anshul's github stats" />
+    <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnshulBadoni&show_icons=true&include_all_commits=true&theme=radical" alt="Anshul's github stats" />
     <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WinRAUL&theme=Blue" alt="Anshul Badoni" />
     <p align="center">
-    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=WinRAUL&layout=compact&theme=Blue" alt="Anshul" />
+    <img align="center" width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AnshulBadoni&layout=compact&theme=Blue" alt="Anshul" />
     </p>
 </p>
 <h2  align="center">💻 My Repos ⬇️ </h2>
