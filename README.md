@@ -82,7 +82,7 @@
 </p>
 
 
-![Anshul's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni&theme=github)
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni)
 
 <!--Github Progess bar-->
 ## Quick Overview 📝
