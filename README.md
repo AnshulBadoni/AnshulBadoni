@@ -64,6 +64,9 @@
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Machine_learning"><img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-%23F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Deep_learning"><img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-%23FF6F00?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+ <a href="https://www.gnu.org/software/octave/">
+  <img alt="Octave" src="https://img.shields.io/badge/-Octave-%2318BEBE?style=for-the-badge&logo=GNU%20Octave&logoColor=white" />
+</a>
     <!-- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
     <img alt="UNITY" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     <img alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -82,7 +85,6 @@
 </p>
 
 
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnshulBadoni)
 
 <!--Github Progess bar-->
 ## Quick Overview 📝
