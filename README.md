@@ -2,8 +2,8 @@
 
 # Hi, Welcome to my playground! 🎉
 
-- I'm Anshul, a curious explorer in the realm of ML/DL, trying to find my footing and soar to new heights without any stumbles. I'm always up for captivating collaborations on exciting and groundbreaking projects
-- If you're looking for an adventurous journey through the world of data and algorithms, you've come to the right place. Let's embark on this thrilling expedition together!
+- I'm Anshul, a curious explorer in the realm of ML/DL, I have deep understanding of mern stack speacially ReactJS 
+- If you're looking for an adventurous journey through the world of data and algorithms, or just want to buid great webapps you've come to the right place. Let's embark on this thrilling expedition together!
 
 - Feel free to connect with me, drop me an email, or find me exploring the depths of Kaggle,HackerRank and LeetCode.
 
