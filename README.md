@@ -8,7 +8,7 @@
 - Feel free to connect with me, drop me an email, or find me exploring the depths of Kaggle,HackerRank and LeetCode.
 - https://leetcode.com/Anshul_Badoni/
 
-<h2 align="center">AI/ML</h2>
+<h2 align="center">Full-Stack Developer</h2>
 
 <!-- <p align= "center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" height="50" >
@@ -26,7 +26,7 @@ https://portfolio-anshul.netlify.app/
 <hr>
 <h3>What's Learning...</h3>
 
-- 🌱 I’m currently learning **Advance backend**
+- 🌱 I’m currently learning **Advance backend** and **DevOps**
 
 <!-- 👨‍💻 All of my projects are available at [abc](abc)-->
 
