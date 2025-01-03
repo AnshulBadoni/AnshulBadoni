@@ -2,7 +2,7 @@
 
 # Hi, Welcome to my playground! 🎉
 
-- I'm Anshul, a curious explorer in the realm of ML/DL, I have deep understanding of mern stack speacially ReactJS 
+- I'm Anshul, a curious explorer in the realm of ML/DL and a full-stack developer, I have deep understanding of MERN and MEAN stack.
 - If you're looking for an adventurous journey through the world of data and algorithms, or just want to buid great webapps you've come to the right place. Let's embark on this thrilling expedition together!
 
 - Feel free to connect with me, drop me an email, or find me exploring the depths of Kaggle,HackerRank and LeetCode.
@@ -26,11 +26,11 @@ https://portfolio-anshul.netlify.app/
 <hr>
 <h3>What's Learning...</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Advance backend**
 
 <!-- 👨‍💻 All of my projects are available at [abc](abc)-->
 
-- 📫 reach me @**anshulbadoni358@gmail.com**
+- 📫 reach me @**anshulbadoni359@gmail.com**
 
 <!-- 📄 Know about my experiences [abc](abc)-->
 
