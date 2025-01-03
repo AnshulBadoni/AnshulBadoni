@@ -58,7 +58,6 @@ https://portfolio-anshul.netlify.app/
     <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
     <img alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-
     <!-- Backend Technologies -->
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=Node.js&logoColor=white" />
     <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-%23000000?style=for-the-badge&logo=Express&logoColor=white" />
@@ -71,7 +70,6 @@ https://portfolio-anshul.netlify.app/
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/-SQL-%23CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-
     <!-- Frontend Technologies -->
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white" /></a>
     <a href="https://angular.io/"><img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white" /></a>
@@ -79,12 +77,10 @@ https://portfolio-anshul.netlify.app/
     <a href="https://remix.run/"><img alt="Remix JS" src="https://img.shields.io/badge/-Remix%20JS-%23000000?style=for-the-badge&logo=Remix&logoColor=white" /></a>
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-
     <!-- DevOps and CI/CD -->
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" />
     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
     <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-%232DA3D2?style=for-the-badge&logo=CircleCI&logoColor=white" />
-
     <!-- Additional Tools -->
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
