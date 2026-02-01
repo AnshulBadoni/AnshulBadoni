@@ -6,7 +6,7 @@
   </h1>
   
   <p>
-    <b>Full-Stack Developer | ML/DL Enthusiast | Open-Source Contributor</b>
+    <b>Backend Engineer | ML/DL Enthusiast | Open-Source Contributor</b>
   </p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Exploring+ML%2FDL+realms;Solving+problems+on+LeetCode;Full-Stack+MERN%2FMEAN+Developer)](https://git.io/typing-svg)
