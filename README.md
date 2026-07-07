@@ -32,8 +32,8 @@
 ## 🚀 About Me
 
 ```
-I'm a passionate full-stack developer with expertise in:
-✨ Building modern, scalable web applications
+Backend Engineer
+✨ Building scalable applications
 🤖 Exploring Machine Learning & Deep Learning
 💡 Problem-solving through code (LeetCode, HackerRank)
 🔧 DevOps & Advanced Backend Architecture
